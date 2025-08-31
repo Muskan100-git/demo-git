@@ -7,4 +7,4 @@ Some Discription
 after changes
 
 ## Local Development 
-1. Open index.html 
+1. Open index.html in your browser
